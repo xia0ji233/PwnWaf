@@ -1,0 +1,11 @@
+*.o
+*.exe
+waf
+pwn
+pwn.bak
+*.un~
+*.swp
+*~
+*.zip
+*.i64
+.codebuddy/

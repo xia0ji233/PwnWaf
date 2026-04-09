@@ -1,0 +1,1 @@
+gcc -g waf.o logger.o AES.o -o waf --static
