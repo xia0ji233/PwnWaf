@@ -457,8 +457,8 @@ int TestFlag(char *buffer)
             return 1;
         }
     }
-    return 0;
 #endif
+    return 0;
 }
 
 int InTable(char c, char *table)
