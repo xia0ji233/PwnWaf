@@ -17,6 +17,7 @@
 #include <signal.h>
 #include <string.h>
 #include <errno.h>
+#define JM_XORSTR_DISABLE_AVX_INTRINSICS
 #include "XorString.hpp"
 
 #define NORMAL_SYSCALL(x)   \
